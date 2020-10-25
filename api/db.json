@@ -9,6 +9,12 @@
       "title": "My new stream",
       "description": "It's my very first video stream",
       "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This stream was created by me!",
+      "userId": "112909571021984246027",
+      "id": 3
     }
   ]
 }
