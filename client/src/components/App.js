@@ -9,7 +9,7 @@ import Header from "./Header";
 
 const App = () => {
   return (
-    <div>
+    <div className="ui container">
       <BrowserRouter>
         <Header />
         <Route exact path="/" component={StreamList} />
