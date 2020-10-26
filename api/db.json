@@ -11,20 +11,8 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
+      "title": "My new stream",
       "description": "This stream was created by me!",
-      "userId": "112909571021984246027",
-      "id": 3
-    },
-    {
-      "title": "Programmatic navigation",
-      "description": "This stream was created by me!",
-      "userId": "112909571021984246027",
-      "id": 4
-    },
-    {
-      "title": "Stream code reuse!!!!",
-      "description": "Generic StreamForm component!!!",
       "userId": "112909571021984246027",
       "id": 5
     }
